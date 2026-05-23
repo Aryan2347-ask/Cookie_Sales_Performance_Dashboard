@@ -1,4 +1,4 @@
-🍪 Cookies Performance Dashboard
+<h1 align="center">🍪 Cookies Performance Dashboard</h1>
 
 An interactive Excel dashboard project designed to analyze cookie sales performance, profitability trends, and product-wise business insights using advanced Excel features.
 
