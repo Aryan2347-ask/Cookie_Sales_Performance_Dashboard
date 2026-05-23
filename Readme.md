@@ -100,11 +100,9 @@ Tracked total units sold for each product category.
 
 📸 Dashboard Preview
 
-> Add dashboard screenshots here
-
-```md
-![Dashboard Preview](images/dashboard.png)
-```
+<p align="center">
+  <img src="https://github.com/Aryan2347-ask/Cookie_Sales_Performance_Dashboard/blob/main/Images/Cookies_sales_dashboard.png?raw=true" width="1000"/>
+</p>
 
 ---
 
